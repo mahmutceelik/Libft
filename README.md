@@ -44,4 +44,4 @@ Makefile, bir programın veya projenin derlenmesi ve kurulması için kullanıla
 
 ## Sonuç
 ![Libft](https://r.resimlink.com/SQ9vRoWy.png)
-![Moulınette](https://r.resimlink.com/Q4dZiofGH3t.png)
+![Moulınette](https://r.resimlink.com/-gneN1_B.png)
